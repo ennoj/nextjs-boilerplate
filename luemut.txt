@@ -1,0 +1,9 @@
+// Kuinka käyttää JSX tyylittelyä
+<style jsx>{`
+  ul {
+    background: #333;
+    color: #fff;
+    list-style: none;
+    display: flex;
+  }
+`}</style>
